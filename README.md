@@ -37,7 +37,7 @@ If the list is long, only the top 5 letters are shown by default, with an option
 
 The application is deployed and accessible online:
 
-👉 Live version: 
+👉 Live version: https://realtimetextanalyzer.netlify.app/
 
 🛠️ How to Run the Application Locally
 
